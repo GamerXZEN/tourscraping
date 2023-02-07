@@ -1,0 +1,10 @@
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/tourscraping.iml
+/.idea/vcs.xml
+/venv/pyvenv.cfg
+/venv/
+/.idea/encodings.xml
